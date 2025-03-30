@@ -1,2 +1,7 @@
 # SmartContract-And-Language
-Record Smart Contract Issues, and Language(like, solidity) for Study.
+
+Record EVM-related Language(like, solidity) Issues, and DeFi Issues, and MISC.
+
+## Reference
+
+- [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
